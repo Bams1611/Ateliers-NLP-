@@ -1,0 +1,87 @@
+﻿article_id,infraction_desc,categorie_vehicule,amende_min,amende_max,points_retrait,classe_infraction,type_infraction,niveau_gravite,mots_cles,cluster
+95,"L'administration prononce la suspension du permis de conduire, si la personne qui en est titulaire n'a pas acquitté le montant de l’amende prononcée à son encontre par décision judiciaire ayant acquis la force de la chose jugée ou par décision administrative et/ou n’a pas payé les dépens afférents à",tous,,,,,infraction,faible,général,1
+38,du code de procédure civile.,tous,,,,,infraction,faible,général,3
+96,"L'administration prononce la suspension du permis de conduire pour une durée qui ne peut dépasser trois mois pour la première fois et six mois en cas de récidive, à l'encontre de tout conducteur de véhicule qui assure le transport de marchandises ou le transport en commun de personnes, sans qu’il ne",poids_lourd,,,,,infraction,faible,"permis, poids_lourd",2
+97,L'administration peut prononcer le retrait du permis de conduire : 1.,tous,,,,,infraction,faible,permis,2
+14,ci-dessus.,tous,,,,,infraction,faible,général,1
+98,"Quelle que soit sa durée, la suspension ou le retrait du permis de conduire prononcée par l'administration conformément aux dispositions des articles 95, 96 et 97 ci-dessus, cesse d'avoir effet après.",tous,,,,,infraction,faible,permis,2
+99,Conformément aux dispositions de l’,tous,,,,,infraction,faible,général,2
+29,"de la présente loi, l’autorité, auprès de laquelle est institué le fichier national du permis de conduire visé à l’",tous,,,,,infraction,faible,permis,2
+120,"ci-dessous, procède, de plein droit, au retrait des points du capital affecté au permis de conduire, dans les cas visé au 1°"" alinéa de l’",tous,,,,,infraction,faible,permis,2
+28,"ci-dessus, au vu des copies de décisions judiciaires ayant acquis la force de la chose jugée que lui transmet le ministère public ou de documents établissant le paiement de l’amende transactionnelle et forfaitaire, comme suit : DELITS     N° ! POINTS D'ORDRE] LE DELIT RETIRER   01 Homicide involonta",moto,,,,délit,délit,élevée,"vitesse, alcool, stationnement, feux, permis, autoroute, accident, ceinture, priorité, dépassement",1
+100,Par dérogation aux dispositions de l’,tous,,,,,infraction,faible,général,2
+99,"ci-dessus et en cas de pluralité des délits commis simultanément parmi lesquels un délit parmi ceux visés aux 1, 3, 5 de l’",tous,,,,délit,délit,élevée,général,2
+99,"ci- dessus, le nombre de points à retirer du capital de points est, au plus, égal à 16 points.",tous,,,,délit,délit,élevée,général,1
+102,"L’immobilisation du véhicule est l’ordre donné, à titre préventif, par l’agent verbalisateur au conducteur d’arrêter son véhicule sur le lieu de constatation de l'infraction ou à proximité de celui-ci, tout en se conformant aux règles relatives au stationnement.",tous,,,,,infraction,faible,stationnement,0
+103,"Outre les cas prévus par la loi, l’immobilisation du véhicule doit être ordonnée dans les cas suivants : 1.",tous,,,,,infraction,faible,permis,2
+147,"Toute mutation de véhicule, si la justice n’a pas décidé le contraire, ou tout recouvrement de la taxe spéciale annuelle sur les véhicules automobiles ou de la taxe à l’essieu ne peut avoir lieu que sur justification du paiement des amendes objet d’une décision exécutoire rendue à l'encontre du prop",tous,,,,délit,délit,élevée,permis,1
+148,Sans préjudice de peines plus sévères et sous réserve des dispositions de l’,tous,,,,,infraction,faible,général,2
+149,"ci-dessous, est punie d'une amende de deux mille (2.",tous,2000.0,4000.0,,,infraction,moyenne,permis,4
+149,Dans les cas visés à l’,tous,,,,,infraction,faible,général,2
+148,"ci-dessus, le véhicule est immobilisé sur place jusqu’à ce qu’un conducteur titulaire du permis de conduire de la même catégorie du véhicule, proposé par le contrevenant ou éventuellement par le propriétaire ou par le détenteur du véhicule, en assure la conduite.",tous,,,,,infraction,faible,permis,0
+150,Hors les cas prévus à l’,tous,,,,,infraction,faible,général,2
+361,"du code pénal et sans préjudice de peines plus sévères, est punie d'un emprisonnement de un (1) mois à six (6) mois et d'une amende de cinq mille (5.",tous,5000.0,20000.0,,,délit_pénal,élevée,permis,4
+151,Est punie d’un emprisonnement de six (6) mois à trois (3) ans et d'une amende de deux mille (2.,tous,2000.0,5000.0,,,délit_pénal,moyenne,permis,4
+152,Est punie d'une amende de deux mille (2.,tous,2000.0,8000.0,,,infraction,moyenne,permis,4
+153,"Si le contrevenant était, au moment où il a commis l’une des infractions prévues à l’",tous,,,,,infraction,faible,général,3
+152,"ci-dessus, déjà frappé d’une sanction de suspension du permis de conduire par une décision judiciaire ayant acquis la force de la chose jugée, la juridiction compétente doit transformer la suspension en annulation de ce permis, avec l'interdiction de se présenter à l'examen pour l'obtention d'un nou",tous,,,,,infraction,faible,permis,2
+154,Toute personne qui conduit avec un faux permis de conduire un véhicule dont la conduite nécessite Pobtention d’un permis de conduire est punie d’un emprisonnement de six (6) mois à trois (3) ans et d’une amende de mille deux cents (1.,tous,1200.0,5000.0,,,délit_pénal,moyenne,permis,0
+155,Est punie d’une amende de quatre mille (4.,tous,4000.0,10000.0,,délit,délit,élevée,permis,4
+156,Est puni d'une amende de quinze mille (15.,poids_lourd,15000.0,30000.0,,,délit_pénal,élevée,général,4
+157,"Tout constructeur, mandataire, importateur ou propriétaire de véhicule qui refuse ou néglige de soumettre son véhicule, ayant subi des modifications des caractéristiques techniques, à une nouvelle homologation, est puni d'une amende de cinq mille (5.",tous,5000.0,30000.0,,,délit_pénal,élevée,général,0
+158,"Le fait de remettre en circulation un véhicule soumis à l’immatriculation gravement accidenté, sans rapport d'expertise et Sans homologation, est puni d'une amende : 1) de cinq mille (5.",poids_lourd,5000.0,30000.0,,,infraction,élevée,"poids_lourd, accident",0
+159,"Le fait de maintenir en circulation sur la voie publique un véhicule soumis à l’immatriculation en vertu des dispositions de la présente loi, irréparable techniquement, dont le certificat d'immatriculation a été retiré, est puni d'une amende : 1) de cinq mille (5.",poids_lourd,5000.0,30000.0,,,infraction,élevée,poids_lourd,0
+160,"Tout conducteur, propriétaire ou détenteur qui met en circulation un véhicule, soumis à l’immatriculation, sans avoir obtenu un certificat d’immatriculation, est puni d’une amende de deux mille (2.",tous,2000.0,6000.0,,,infraction,moyenne,général,0
+161,"Tout conducteur d'un véhicule, soumis à l’immatriculation, dépourvu de plaques d'immatriculation et tout propriétaire ou tout détenteur qui a mis en circulation ou qui a autorisé la circulation de son véhicule sans lesdites plaques est puni d'une amende de deux mille (2.",tous,2000.0,12000.0,,,infraction,élevée,général,0
+162,Est puni d'un emprisonnement de six (6) mois à trois (3) ans et d’une amende de deux mille (2.,tous,2000.0,5000.0,,,délit_pénal,moyenne,général,4
+163,Le défaut de la déclaration prévue à P,tous,,,,,infraction,faible,général,1
+62,ci-dessus est puni d’une amende de trois mille (3.,tous,3000.0,5000.0,,,infraction,moyenne,général,4
+164,"Le fait pour tout responsable de l'exploitation d'un véhicule de transport de marchandises ou de transport en commun de personnes, soumis à l'obligation d’être équipé du dispositif de limitation de vitesse ou du dispositif de mesure de vitesse ou de la durée de conduite, de ne pas respecter cette ob",poids_lourd,5000.0,12000.0,,,délit_pénal,élevée,"vitesse, poids_lourd",2
+165,"Il est interdit de placer, d'adapter, d’utiliser ou d'appliquer un appareil, dispositif ou produit destiné soit à déceler la présence, soit à perturber le fonctionnement d'instrument servant à la constatation des infractions à la présente loi et aux textes pris pour son application.",tous,5000.0,10000.0,,,infraction,élevée,téléphone,1
+166,"Sans préjudice de peines plus sévères, est puni d’une amende de cinq mille (5.",tous,5000.0,10000.0,,,infraction,élevée,"accident, téléphone",4
+167,"Tout conducteur dont la responsabilité d’un accident de la circulation est établie qui, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de prudence prévue par la présente loi ou par les textes pris pour son application, cause involontairement à autru",tous,1200.0,6000.0,,,délit_pénal,moyenne,"vitesse, alcool, stationnement, feux, permis, accident, priorité, dépassement",1
+168,Les personnes auteurs des infractions prévues à l’,transport_commun,,,,,infraction,faible,général,3
+167,ci-dessus encourent ce qui suit : 1.,tous,,,,,infraction,faible,permis,1
+167,"ci-dessus, la durée de cette suspension est de six (6) mois à un (1) an au plus ;",tous,,,,,infraction,faible,général,1
+167,"ci-dessus, encourent également la peine complémentaire de publication et/ou d'affichage de la décision prévue à l'",tous,,,,,infraction,faible,général,1
+48,du code pénal. Lorsque la responsabilité pénale du représentant légal d’une personne morale est établie dans des infractions prévues à l’,tous,,,,,infraction,faible,général,3
+167,"ci-dessus, celle-ci peut être condamnée à la peine complémentaire de publication et/ou d'affichage de la décision prévue à l'",tous,,,,,infraction,faible,général,1
+48,du code pénal.,tous,,,,,infraction,faible,général,3
+169,"Tout conducteur dont la responsabilité d’un accident de la circulation est établie qui, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de prudence prévue par la présente loi ou par les textes pris pour son application, cause involontairement à autru",tous,2400.0,10000.0,,,délit_pénal,élevée,"vitesse, alcool, stationnement, feux, permis, accident, priorité, dépassement",1
+170,Les personnes auteurs des infractions prévues à l’,transport_commun,,,,,infraction,faible,général,3
+169,ci-dessus encourent ce qui suit : 1.,tous,,,,,infraction,faible,permis,1
+169,"ci-dessus, l'annulation du permis de conduire avec interdiction de passer l’examen pour l’obtention d’un nouveau permis pendant une durée de un (1) an à deux (2) ans ;",tous,,,,,infraction,faible,permis,2
+169,ci-dessus encourent également la peine complémentaire de publication et/ou d'affichage de la décision prévue à l',tous,,,,,infraction,faible,général,1
+48,du code pénal. Lorsque la responsabilité pénale du représentant légal d’une personne morale est établie dans des infractions prévues à l’,tous,,,,,infraction,faible,général,3
+169,"ci-dessus, celle-ci peut être condamnée à la peine complémentaire de publication et/ou d'affichage de la décision prévue à l'",tous,,,,,infraction,faible,général,1
+48,du code pénal.,tous,,,,,infraction,faible,général,3
+171,"Est soumise obligatoirement à une expertise médicale, toute personne, victime d’un accident de la circulation, qui produit devant la juridiction compétente un certificat médical faisant état de son incapacité temporaire de travail pendant la durée visée au 1% alinéa de l’",tous,,,,,infraction,faible,accident,1
+167,ci-dessus ou de son infirmité permanente telle que prévue au 1% alinéa de l’,tous,,,,,infraction,faible,général,1
+169,ci-dessus. Section 4.,tous,,,,,infraction,faible,accident,1
+172,"Tout conducteur dont la responsabilité d'un accident de la circulation est établie qui, par maladresse, imprudence, inattention, négligence ou manquement à une obligation de sécurité ou de prudence prévue par la présente loi ou par les textes pris pour son application, commet un homicide involontair",tous,7500.0,30000.0,,,délit_pénal,élevée,"vitesse, alcool, stationnement, feux, permis, accident, priorité, dépassement",1
+173,Les auteurs des infractions prévues à l’,tous,,,,,infraction,faible,général,3
+172,"ci-dessus encourent ce qui suit : 1) la suspension, pour une durée de un (1) an à trois (3) ans, du permis de conduire ;",tous,,,,,infraction,faible,permis,2
+172,"ci-dessus, l'annulation du permis de conduire avec interdiction de passer l'examen pour l’obtention d'un nouveau permis pendant une durée de deux (2) ans à quatre (4) ans ;",tous,,,,,infraction,faible,permis,2
+172,ci-dessus encourent également la peine complémentaire de publication et/ou d'affichage de la décision prévue à l',tous,,,,,infraction,faible,général,1
+48,du code pénal.  --- PAGE 31 --- N° 5874 — 7 chaoual 1431 (16-9-2010)   1673     Lorsque la responsabilité pénale du représentant légal d’une personne morale est établie dans des infractions prévues à l’,tous,,,,,infraction,faible,général,3
+172,"ci-dessus, celle-ci peut être condamnée à la peine complémentaire de publication et/ou d'affichage de la décision prévue à l'",tous,,,,,infraction,faible,général,1
+48,du code pénal.,tous,,,,,infraction,faible,général,3
+174,"En cas de non réception par l’administration d’une copie de la décision portant suspension du permis de conduire, elle doit restituer le permis à son titulaire à l’expiration de la durée maximale prévue aux articles 168, 170 et 173 ci-dessus.",tous,,,,délit,délit,élevée,permis,2
+175,Est puni d’une amende de quatre mille (4.,tous,4000.0,8000.0,,,délit_pénal,moyenne,"vitesse, permis, autoroute, dépassement",4
+176,Est puni d’une amende de mille deux cents (1.,tous,1200.0,3000.0,,,infraction,moyenne,"vitesse, dépassement",4
+177,"Le propriétaire du véhicule est puni, pour le dépassement du poids total en charge autorisé, inscrit sur le certificat d'immatriculation, de plus de 40%, d’une amende de mille deux cents (1.",tous,1200.0,2000.0,,,infraction,moyenne,dépassement,0
+178,"Sans préjudice de peines plus sévères, le dépassement du poids total en charge autorisé au passage d'un ouvrage de franchissement est puni d’un emprisonnement d’un mois à 3 mois et d’une amende de mille cinq cents (1.",tous,1500.0,4000.0,,,délit_pénal,moyenne,"permis, dépassement",4
+179,"Les courses de véhicules à moteur ou toutes autres manifestations sportives, qu'elle qu'en soit la dénomination, sont interdites sur les autoroutes et sur leurs bretelles de raccordement.",tous,20000.0,30000.0,,,contravention,élevée,autoroute,1
+180,Les courses pédestres ou cyclistes sont interdites sur les autoroutes et leurs bretelles de raccordement.,tous,1200.0,3000.0,,,infraction,moyenne,autoroute,1
+181,"Sans préjudice des sanctions encourues pour toute autre cause, est puni d'une amende de mille deux cents (1.",tous,1200.0,2000.0,,,infraction,moyenne,général,4
+182,"Sans préjudice des dispositions des articles 167, 169 et 172 de la présente loi, tout conducteur qui, ayant causé ou occasionné un accident de la circulation routière, ne s'arrête pas et tente, soit en prenant la fuite, soit en modifiant l’état des lieux, soit par tout autre moyen d'échapper à la re",tous,2000.0,10000.0,,,délit_pénal,élevée,"permis, accident",1
+183,"Toute personne qui, même en l'absence de tout signe d’ivresse manifeste, conduit un véhicule, alors qu’elle se trouve en état d'ivresse ou sous l'influence de l’alcool caractérisée par la présence dans l’air expiré ou dans le sang d’un taux d'alcool fixé par l'administration ou sous l'influence de s",tous,5000.0,10000.0,,1,contravention,élevée,"alcool, permis",0
+184,Est punie d’une amende de sept cents (700) à mille quatre cents (1.,poids_lourd,700.0,1400.0,,1,contravention,moyenne,"vitesse, stationnement, feux, autoroute, accident, ceinture, dépassement",4
+185,Est punie d’une amende de cinq cents (500) à mille (1.,moto,500.0,1000.0,,2,infraction,moyenne,"vitesse, stationnement, feux, poids_lourd, autoroute, téléphone, priorité, dépassement",4
+303,"du code pénal, tant que ce port n’est pas justifié par l’activité professionnelle de la personne concernée ou par un motif légitime ;",tous,,,,3,contravention,faible,priorité,3
+186,"Sans préjudice des peines plus sévères prévues par la présente loi ou par une législation particulière, les infractions aux dispositions édictées en application des articles 46, 47, 48, 64, 65, 87, 88, 92 et 93 ci-dessus, dites contraventions de la troisième classe, sont punies d’une amende de trois",tous,300.0,600.0,,3,contravention,faible,général,1
+187,Toute infraction aux règles de circulation prises en application de l’,tous,,,,,infraction,faible,général,2
+94,", est punie d’une amende de vingt (20) à cinquante (50) dirhams.",tous,20.0,50.0,,,contravention,faible,général,4
+188,"Est puni d’une amende de trois cents (300) à six cents (600) dirhams : 1) le fait pour tout conducteur ou gardien de troupeaux ou d'animaux d'avoir abandonné ou laissé divaguer ou paître ses troupeaux ou animaux sur la voie publique, et, en cas d'insuffisance notoire de gardiennage, les propriétaire",tous,300.0,600.0,,,infraction,faible,général,1
+189,"Le défaut ou l'insuffisance des feux des véhicules prévus par la présente loi et par les textes pris pour son application, n'est pas punissable s'il est établi que l'absence ou l'insuffisance d'éclairage provient d'une cause accidentelle survenue en cours de circulation sur la voie publique et que l",tous,,,,,infraction,faible,accident,1
+190,"Outre les officiers et agents de police judiciaire, sont chargés de la recherche et de la constatation des infractions aux dispositions de la présente loi et des textes pris pour son application : 1) les officiers et agents relevant de la gendarmerie royale ;",tous,,,,,infraction,faible,général,1
